@@ -1,4 +1,5 @@
 {
-  "git.enableCommitSigning": true,
-  "github.gitProtocol": "ssh"
+  "git.enableCommitSigning": false,
+  "github.gitProtocol": "ssh",
+  "git.alwaysSignOff": true
 }
